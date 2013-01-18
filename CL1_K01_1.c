@@ -2,6 +2,6 @@
 
 void main(void){
 	int sum;
-	sum = 37 * 15;
-	printf("37 * 15 = %d\n",sum);
+	sum = 45 / 15;
+	printf("45 / 15 = %d\n",sum);
 }
